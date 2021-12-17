@@ -35,10 +35,6 @@ body {
     background-color: var(--clr-light-grayish-blue);
 }
 
-h1 {
-    font-size: 1rem;
-}
-
 /************************************/
 /* Cards Container */
 
